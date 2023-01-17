@@ -1,2 +1,2 @@
-# HTML-CSS
+# Survey
 A simple survey using HTML & CSS
